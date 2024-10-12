@@ -11,3 +11,6 @@ The useful info includes the following items:
 Be noted that a big part of this project is to made a prediction model for point 5. We first collect data and perform feature engineering and correlation analysis at ML_data_prep.ipynb, then load the dataset created to ML.ipynb for model building and evaluations. By loading the models created from ML.ipynb to Connect.ipynb, we can then make the prediction. For points 1-4, the data required is mainly collected using the yfinance API in Python. Capstone.twbx is our end product.
 
 To run the codes successfully, please apply them in a Google Colab environment. Also, load the files in Raw data from FRED to a folder named "data" in your "Colab Notebooks" folder if you want to run ML_data_prep.ipynb; load the file from ML dataset to "Colab Notebooks" if you want to run ML.ipynb; load those from Models to "Colab Notebooks" if you want to run Connect.ipynb; and download the files from Data Source Tables for the data source of Capstone.twbx.
+
+Visit this page if you want to see the end product directly:
+https://public.tableau.com/app/profile/ming.chung.fong/viz/Capstone_17285382573660/Dashboard1
