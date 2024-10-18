@@ -14,3 +14,12 @@ To run the codes successfully, please apply them in a Google Colab environment. 
 
 Visit this page if you want to see the end product directly:
 https://public.tableau.com/app/profile/ming.chung.fong/viz/Capstone_17285382573660/Dashboard1
+
+![Screenshot 2024-10-17 161428](https://github.com/user-attachments/assets/2f84ef7b-f2b5-4dc1-9bf9-eed5434ebff2)
+
+My key takeaways from this project are:
+1. Understanding the model building processes for linear, polynomial and XGBoost regressions
+2. Realizing that a meta model can be derived from the prediction results from various different models
+3. Using dashboard actions and Visibility Control in Tableau to make a dashboard lively
+4. Different ways to rerun the codes at a defined frequency, such as GitHub actions, and their constraints
+5. Different medias to load the dataframes from a Python script to be accessible by Tableau through live connection, or by Power Bi through direct query, such as ngrok and Google Cloud MySQL, and their constraints
