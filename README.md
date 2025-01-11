@@ -26,4 +26,4 @@ My key takeaways from this project are:
 
 The full report can be viewed here:
 
-https://docs.google.com/document/d/1tGjnqrRIfKrV7SZu7Dp5_jepgVGVx_-YlcsrNCphQj8/edit?usp=sharing
+[https://docs.google.com/document/d/1tGjnqrRIfKrV7SZu7Dp5_jepgVGVx_-YlcsrNCphQj8/edit?usp=sharing](https://drive.google.com/file/d/1PhIPTiWsDmCtWvJFwQ2ImgLjAKGcyUwP/view?usp=sharing)
